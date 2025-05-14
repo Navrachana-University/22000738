@@ -1,0 +1,10 @@
+ghoshit i = 0;
+
+jabtak (i < 5) {
+    chhapo i;
+    badlo i = i + 1;
+}
+
+ke_liye (ghoshit j = 0; j < 5; badlo j = j + 1) {
+    chhapo j;
+}
